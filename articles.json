@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "AI vượt mặt con người trong lập trình?",
+      "description": "Trí tuệ nhân tạo đang viết code nhanh hơn cả lập trình viên chuyên nghiệp.",
+      "image": "https://picsum.photos/id/1015/600/400"
+    },
+    {
+      "id": 2,
+      "title": "Top 5 thiết bị công nghệ hot nhất 2025",
+      "description": "Những thiết bị không thể thiếu nếu bạn là dân công nghệ.",
+      "image": "https://picsum.photos/id/1041/600/400"
+    },
+    {
+      "id": 3,
+      "title": "Game Việt lọt top thế giới",
+      "description": "Một studio indie Việt Nam gây chấn động với trò chơi mới.",
+      "image": "https://picsum.photos/id/1035/600/400"
+    },
+    {
+      "id": 4,
+      "title": "Lập trình web: Học gì trong năm 2025?",
+      "description": "Những kỹ năng và công nghệ bạn cần để không bị tụt hậu.",
+      "image": "https://picsum.photos/id/1011/600/400"
+    },
+    {
+      "id": 5,
+      "title": "Review: Laptop ASUS Zenbook AI",
+      "description": "Hiệu năng cao, pin trâu, tích hợp AI – lựa chọn đáng giá?",
+      "image": "https://picsum.photos/id/1005/600/400"
+    },
+    {
+      "id": 6,
+      "title": "Metaverse có còn tương lai?",
+      "description": "Công nghệ vũ trụ ảo liệu có thực sự sẽ bùng nổ hay đã thoái trào?",
+      "image": "https://picsum.photos/id/1039/600/400"
+    }
+  ]
+  
